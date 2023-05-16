@@ -1,0 +1,19 @@
+.test li a:hover{
+    background-color: aquamarine;
+    color: white;
+}
+.dropdown-hover:hover .dropdown-menu{
+    display: block;
+}
+.h-500{
+    height: 500px;
+}
+.my-caption{
+    background-color: rgba(0,0,0,0.5);
+}
+.text-justify{
+    text-align: justify!important;
+}
+.bg-content-color{
+    background-color: rgba(0,0,0,0.5);
+}
